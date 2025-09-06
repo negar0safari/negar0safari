@@ -1,4 +1,4 @@
-#Hi there 👋 Hi, I'm Negar!
+# Hi there 👋 Hi, I'm Negar!
 
 A front-end developer and civil engineer passionate about blending AI with engineering. I build modern web experiences using HTML, CSS, JavaScript, and WordPress, and I'm currently diving deeper into React and advanced JavaScript.
 
